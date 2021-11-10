@@ -8,13 +8,13 @@ Aquest repositori es una base de Svelte (Bàsic) per funcionar amb els estils de
 
 ### Requeriments previs
 
-Es important que abans de començar instaleu l'ultima versió de node (actualment v17.1) i yarn. 
+És important que abans de començar instal·leu l'ultima versió de **Node** (actualment v17.1) i **Yarn**. 
 
 ```console
 foo@bar:~$ npm -g i yarn
 ```
 
-### Instalació i execució
+### Instal·lació i execució
 
 ```console
 foo@bar:~$ yarn install
@@ -23,14 +23,14 @@ foo@bar:~$ yarn run dev
 ```
 
 ### CSS a editar
-Podeu utilitzar ja classes Tailwind arreu del codi html de svelte i afegir clases fixes al fitxer src/styles/tailwind.css
+Podeu utilitzar classes Tailwind arreu del codi html de svelte i afegir classes fixes al fitxer src/styles/tailwind.css
 
-# Referencia de TailwindCSS 
+# Referència de TailwindCSS 
 
-> Actualment la versió que treballem es la v2.2.16
+> Actualment la versió que treballem és la v2.2.16
 
 https://tailwindcss.com/docs/installation
 
-#### Article de referencia per fer funcionar Tailwind amb Svelte
+#### Article de referència per fer funcionar Tailwind amb Svelte
 
 https://blog.logrocket.com/how-to-use-tailwind-css-with-svelte/
