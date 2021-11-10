@@ -23,4 +23,14 @@ foo@bar:~$ yarn run dev
 ```
 
 ### CSS a editar
-Podeu utilitzar ja classes Tailwind arreu del codi html de svelte i afegir clases fixes al fitxer src/styles/tailwind
+Podeu utilitzar ja classes Tailwind arreu del codi html de svelte i afegir clases fixes al fitxer src/styles/tailwind.css
+
+# Referencia de TailwindCSS 
+
+> Actualment la versió que treballem es la v2.2.16
+
+https://tailwindcss.com/docs/installation
+
+#### Article de referencia per fer funcionar Tailwind amb Svelte
+
+https://blog.logrocket.com/how-to-use-tailwind-css-with-svelte/
